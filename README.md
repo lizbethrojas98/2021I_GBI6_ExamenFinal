@@ -1,14 +1,15 @@
 # 2021I_GBI6_ExamenFinal
 
-### Nombre: Lizbeth Rojas
+### Nombre: Lizbeth Estefanía Rojas Estrada
 ### CI. 1501168288
 ### Celular: 0988582083
 ### Dirección: Tena-Napo-Ecuador
 ### Correo : lizbeth.rojas@est.ikiam.edu.ec 
-### Carrera: Ingenieria en Biotecnologia 
-### Cátedra de Bioinformatica-2022
+### Institución: Universidad Regional Amazónica Ikiam
+### Carrera: Ingeniería en Biotecnología
+### Cátedra de Bioinformática-2022
 
-## Caracteristicas del computador 
+## Características del computador 
 
          Machine name: LAPTOP-VSSA1NRI
            Machine Id: {16B779A1-8B27-48BE-9775-8D8F191565B3}
@@ -24,16 +25,19 @@
           Windows Dir: C:\windows
       DirectX Version: DirectX 12
       
-## Descripcion de datos 
+## Descripción de datos 
 
 ### La data del archivo "mRNA_expr.csv" presenta niveles de expresion de genes de diferentes tipos de cancer 
 
 ### Programa utilizados :
 
-### git bash y r Studio
+#### git bash 
+#### r Studio
 
 ### Las librerias utilizadas :
 
-### ggplot, dplyr y sjPlot 
+#### ggplot
+#### dplyr 
+#### sjPlot 
 
 
