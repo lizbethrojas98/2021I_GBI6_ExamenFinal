@@ -15,10 +15,10 @@
 
 ### Programa utilizados :
 
-####git bash y r Studio
+###git bash y r Studio
 
 ### Las librerias utilizadas :
 
-####ggplot, dplyr y sjPlot 
+###ggplot, dplyr y sjPlot 
 
 â
