@@ -3,7 +3,7 @@
 ### Nombre: Lizbeth Rojas
 ### CI. 1501168288
 ### Celular: 0988582083
-### correo personal : ibethpacheco200@gmail.com 
+### correo : lizbeth.rojas@est.ikiam.edu.ec 
 ### Carrera: Ingenieria en Biotecnologia 
 ### Cátedra de Bioinformatica-2022
 
